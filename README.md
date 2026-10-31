@@ -61,6 +61,10 @@ A secure and user-friendly Password Generator built using Python and Tkinter. Th
 
 This application uses Python's `secrets` module for cryptographically strong random password generation. Password history is stored only during the current application session.
 
+## 📸 Application Screenshot
+
+![Password Generator](screenshots/password_generator.png)
+
 ## 👨‍💻 Author
 
 **Punit Patil**
